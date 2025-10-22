@@ -132,9 +132,9 @@ data_action = [
         icon: "hood",
         subtitle: "2024: Become Hidden when unseen/obscured; roll Stealth vs DM-set DC (often 15 or observer’s passive Perception).",
         description: "Attempt to hide",
-        reference: "2024: PHB, pg. xxx","2014: PHB, pg. 192.",
+        reference: "2024: PHB, pg. xxx - 2014: PHB, pg. 192.",
         bullets: [
-            "2024: You take Hide when you’re obscured/out of sight; success makes you Hidden (a named state). Many tables use DC 15 baseline when no observer’s passive Perception applies."
+            "2024: You take Hide when you’re obscured/out of sight; success makes you Hidden (a named state). Many tables use DC 15 baseline when no observer’s passive Perception applies.",
             "2014: You can't hide from a creature that can see you. You must have total cover, be in a heavily obscured area, be invisible, or otherwise block the enemy's vision.",
             "2014: If you make noise (such as shouting a warning or knocking over a vase), you give away your position.",
             "2014: When you try to hide, make a Dexterity (Stealth) check and note the result. Until you are discovered or you stop hiding, that check's total is contested by the Wisdom (Perception) check of any creature that actively searches for signs of your presence.",
